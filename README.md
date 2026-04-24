@@ -72,10 +72,8 @@ This project is designed for educational purposes to learn:
 
 ---
 
-## Preview
-(Add your project image or diagram here)
+## simulation video
 
+https://youtu.be/vR7B27MEHOg
 ---
 
-## License
-This project is open-source for educational use.
